@@ -3,7 +3,7 @@
 A simple countdown timer written in Python.
 The user can set hours, minutes, and seconds, and the program will count down until the time ends.
 
----
+
 
 ## 🚀 Features
 
@@ -11,11 +11,10 @@ The user can set hours, minutes, and seconds, and the program will count down un
 - Clears the screen dynamically while counting
 - Simple command-line interface
 
----
+
 
 ## 🛠️ Installation & Usage
 
-<<<<<<< HEAD
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/USERNAME/python-timer.git](https://github.com/USERNAME/python-timer.git)
@@ -28,23 +27,10 @@ The user can set hours, minutes, and seconds, and the program will count down un
 
 3.  **Run the program:**
     ```bash
-=======
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/USERNAME/python-timer.git
-
-
-2. Navigate into the project folder:
-
-    cd python-timer
-
-3. Run the program:
-   
->>>>>>> e326d7ae85b354045890a4f14fb534501eab5716
     python main.py
     ```
 
----
+
 
 ### 📸 Example
 
@@ -61,7 +47,7 @@ Timer Started Now ...
 1
 Timer Ended ...
 ```
-📌 About 
+### 📌 About
 This is a mini project written in Python to practice:
 
 - Loops
