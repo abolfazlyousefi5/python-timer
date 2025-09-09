@@ -1,31 +1,36 @@
 # ⏳ Python Timer
 
-A simple countdown timer written in Python.  
+A simple countdown timer written in Python.
 The user can set hours, minutes, and seconds, and the program will count down until the time ends.
 
 ---
 
 ## 🚀 Features
-- Countdown timer with hours, minutes, and seconds  
-- Clears the screen dynamically while counting  
-- Simple command-line interface  
+
+- Countdown timer with hours, minutes, and seconds
+- Clears the screen dynamically while counting
+- Simple command-line interface
 
 ---
 
 ## 🛠️ Installation & Usage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/USERNAME/python-timer.git
-```
-2. Navigate into the project folder:
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/USERNAME/python-timer.git](https://github.com/USERNAME/python-timer.git)
+    ```
+
+2.  **Navigate into the project folder:**
     ```bash
     cd python-timer
-```
-3. Run the program:
+    ```
+
+3.  **Run the program:**
     ```bash
     python main.py
-```
+    ```
+
+---
 
 ### 📸 Example
 
@@ -42,8 +47,9 @@ Timer Started Now ...
 1
 Timer Ended ...
 ```
-### 📌 About
+📌 About 
 This is a mini project written in Python to practice:
+
 - Loops
 
 - User input
