@@ -17,13 +17,14 @@ The user can set hours, minutes, and seconds, and the program will count down un
 1. Clone the repository:
    ```bash
    git clone https://github.com/USERNAME/python-timer.git
-```
+
+
 2. Navigate into the project folder:
-    ```bash
+
     cd python-timer
-```
+
 3. Run the program:
-    ```bash
+   
     python main.py
 ```
 
